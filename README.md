@@ -88,4 +88,4 @@ MIT License
 
 ## Contributors
 
-- Cristian
+- https://www.linkedin.com/in/ciobanu-cristian-a0ab52290/
